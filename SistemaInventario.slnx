@@ -5,6 +5,7 @@
   </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
+    <File Path=".releaserc" />
   </Folder>
   <Project Path="SistemaInventario.AccesoDatos/SistemaInventario.AccesoDatos.csproj" />
   <Project Path="SistemaInventario.Modelos/SistemaInventario.Modelos.csproj" />
