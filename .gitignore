@@ -1,0 +1,45 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+out/
+
+# Archivos de paquetes
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Archivos de configuración local
+*.launch.json
+*.vscode/
+*.env
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos de sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de Git
+*.orig
+
+# Archivos de configuración de Rider
+.idea/
+
+# Archivos de test y cobertura
+TestResults/
+*.coverage
+*.coveragexml
+
+# Archivos de publicación
+publish/
