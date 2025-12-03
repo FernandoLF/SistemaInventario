@@ -7,7 +7,8 @@
     [
       "@semantic-release/git",
       {
-        "assets": ["CHANGELOG.md", "SistemaInventario.slnx"]
+        "assets": [ "CHANGELOG.md", "SistemaInventario.slnx" ],
+        "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
     ],
     "@semantic-release/github"
