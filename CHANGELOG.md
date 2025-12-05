@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/FernandoLF/SistemaInventario/compare/v1.0.0...v1.1.0) (2025-12-05)
+
+
+### Features
+
+* **areas:** agregar Admin e Inventario, limpiar carpetas y actualizar vistas ([0bd5a36](https://github.com/FernandoLF/SistemaInventario/commit/0bd5a364ea0e8558551d0c34969db26c00e77b90))
+
 # 1.0.0 (2025-12-03)
 
 
