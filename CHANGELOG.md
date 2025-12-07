@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/FernandoLF/SistemaInventario/compare/v1.1.0...v1.2.0) (2025-12-07)
+
+
+### Features
+
+* **identity:** agregar migración inicial y configuración de autenticación ([2d97ab2](https://github.com/FernandoLF/SistemaInventario/commit/2d97ab2ce7efa8ff7ef4d367cbd44f6b1d6e349b))
+
 # [1.1.0](https://github.com/FernandoLF/SistemaInventario/compare/v1.0.0...v1.1.0) (2025-12-05)
 
 
