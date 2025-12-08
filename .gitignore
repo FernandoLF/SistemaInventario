@@ -4,7 +4,7 @@
 *.suo
 *.sln.docstates
 
-# Archivos de compilación
+# Archivos de compilaciï¿½n
 bin/
 obj/
 out/
@@ -14,8 +14,10 @@ out/
 *.snupkg
 packages/
 *.nuspec
+project.lock.json
+project.fragment.lock.json
 
-# Archivos de configuración local
+# Archivos de configuraciï¿½n local
 *.launch.json
 *.vscode/
 *.env
@@ -33,7 +35,7 @@ Desktop.ini
 # Archivos de Git
 *.orig
 
-# Archivos de configuración de Rider
+# Archivos de configuraciï¿½n de Rider
 .idea/
 
 # Archivos de test y cobertura
@@ -41,5 +43,5 @@ TestResults/
 *.coverage
 *.coveragexml
 
-# Archivos de publicación
+# Archivos de publicaciï¿½n
 publish/
